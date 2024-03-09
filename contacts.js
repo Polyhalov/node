@@ -36,7 +36,6 @@ const addContact = async (data)=>{
     return newContact;
 }
 
-// addContact({ name: 'Andriy2', email: 'asdadasd2@gmail.com', phone: '0931991919192' })
 
 module.exports = {
     listContacts,

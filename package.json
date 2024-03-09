@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^12.0.0",
-    "nanoid": "^3.3.4"
+    "nanoid": "3.3.4"
   }
 }
